@@ -1,0 +1,5 @@
+Welcome to the Cryptographic Encryption Vault.
+
+This file contains confidential information.
+
+Keep it secure.
